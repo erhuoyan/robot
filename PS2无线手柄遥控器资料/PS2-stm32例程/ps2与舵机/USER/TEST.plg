@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+I:\PS 程序\PS2无线手柄遥控器C语言程序\PS2无线手柄遥控器C语言程序\PS2-stm32例程\ps2与舵机\USER\TEST.uvproj
+Project File Date:  <unknown>
+
+<h2>Output:</h2>
+Load "I:\\PS 程序\\PS2无线手柄遥控器C语言程序\\PS2无线手柄遥控器C语言程序\\PS2-stm32例程\\ps2与舵机\\USER\\TEST.AXF" 
+_____^
+*** error 56: cannot open file
+Build target 'Target 1'
+assembling STM32F10x.s...
+--- Error: failed to execute '.\ARMCC\bin\ArmAsm'
+Target not created
+Build target 'Target 1'
+assembling STM32F10x.s...
+--- Error: failed to execute '.\ARMCC\bin\ArmAsm'
+Target not created
+Build target 'Target 1'
+assembling STM32F10x.s...
+--- Error: failed to execute '.\ARMCC\bin\ArmAsm'
+Target not created
+Build target 'Target 1'
+assembling STM32F10x.s...
+--- Error: failed to execute '.\ARMCC\bin\ArmAsm'
+Target not created
