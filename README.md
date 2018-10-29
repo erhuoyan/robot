@@ -1,6 +1,6 @@
 # robot
 
-<<<<<<< HEAD
+
 **安徽大学第八届机器人剧场赛**
 
 ![](https://raw.githubusercontent.com/gYANnnnn/robot/master/%E5%8D%81%E6%9C%88%E6%AF%94%E8%B5%9B/1540099726868.jpeg)
@@ -9,10 +9,10 @@
  ![](https://raw.githubusercontent.com/gYANnnnn/robot/master/%E5%8D%81%E6%9C%88%E6%AF%94%E8%B5%9B/1540099736202.jpeg)
  - 队名：Devil(恶魔)
  - 队员:
-> 王彩霞（队长)
-> 耿严（副队长）
+> 王彩霞（队长)  
+> 耿严（副队长）  
 > 曾令蒙  
-> 鲍志强
+> 鲍志强  
 > 张孟强
  - 队员与作品合照
 ![](https://raw.githubusercontent.com/gYANnnnn/robot/master/%E5%8D%81%E6%9C%88%E6%AF%94%E8%B5%9B/4a2d6a71b2e54088.jpg)
@@ -48,18 +48,3 @@
  - 方案二：航模遥控控制。（推荐）
 
  *我队采用航模遥控控制行驶PS2控制武器的方案。比赛时出现武器掉线现象*
-=======
-安徽大学第八届机器人剧场赛
-
-#### 队伍简介
- - 队名：Devil(恶魔)
-<br></br>
- - 队员:
-<br>  1. 王彩霞（队长）
-<br>  2. 耿严（副队长）
-<br>  3. 曾令蒙
-<br>  4. 鲍志强
-<br>  5. 张孟强
-</br>
- -
->>>>>>> 30d808e36b2da873a76f35e50b1e987a2f5b0bf0
