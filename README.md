@@ -6,7 +6,6 @@
 ![](https://raw.githubusercontent.com/gYANnnnn/robot/master/%E5%8D%81%E6%9C%88%E6%AF%94%E8%B5%9B/1540099726868.jpeg)
 
  #### **队伍简介**
- ![](https://raw.githubusercontent.com/gYANnnnn/robot/master/%E5%8D%81%E6%9C%88%E6%AF%94%E8%B5%9B/1540099736202.jpeg)
  - 队名：Devil(恶魔)
  - 队员:
 > 王彩霞（队长)  
@@ -14,6 +13,8 @@
 > 曾令蒙  
 > 鲍志强  
 > 张孟强
+
+![](https://raw.githubusercontent.com/gYANnnnn/robot/master/%E5%8D%81%E6%9C%88%E6%AF%94%E8%B5%9B/1540099736202.jpeg)
  - 队员与作品合照
 ![](https://raw.githubusercontent.com/gYANnnnn/robot/master/%E5%8D%81%E6%9C%88%E6%AF%94%E8%B5%9B/4a2d6a71b2e54088.jpg)
 
